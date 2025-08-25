@@ -27,9 +27,9 @@ title: Where's My Show
 
 description: >- # this means to ignore newlines until "baseurl:"
   Easily find where your show is streaming
-baseurl: /wheres-my-show # the subpath of your site, e.g. /blog
 domain: trugold.github.io
-url: https://trugold.github.io/wheres-my-show # the base hostname & protocol for your site, e.g. http://example.com
+url: https://trugold.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /wheres-my-show # the subpath of your site, e.g. /blog
 
 # Build settings
 theme: jekyll-theme-minimal
