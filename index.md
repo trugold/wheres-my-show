@@ -5,6 +5,6 @@
 layout: default
 ---
 
-## [Privacy Policy](privacy.md) ##
+## [Privacy Policy](./privacy) ##
 
-## [Support](support.md) ##
+## [Support](./support) ##

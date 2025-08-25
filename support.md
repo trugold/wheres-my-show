@@ -19,4 +19,4 @@ layout: default
 
 For issues or questions contact the developer at [trugold.info@gmail.com](mailto:trugold.info@gmail.com)
 
-[back](../index.md)
+[back](./index.md)
