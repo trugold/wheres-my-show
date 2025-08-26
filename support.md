@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Documentation ##  
+## Documentation
 
 - Search for a movie or TV show
 
